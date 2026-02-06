@@ -6,16 +6,18 @@ labels: bug, triage
 assignees: ''
 ---
 
+<!-- 
+Thank you for reporting a bug! Please fill out the sections below.
+If you opened this from the app footer, the context may be pre-filled in the title.
+-->
+
 **Current URL:**
-<!-- The page where the bug occurred -->
 
 
 **Username:**
-<!-- Your username if logged in -->
 
 
 **Version:**
-<!-- Application version/commit hash -->
 
 
 **Steps to reproduce:**
@@ -24,12 +26,10 @@ assignees: ''
 3. 
 
 **Expected behavior:**
-<!-- What you expected to happen -->
 
 
 **Actual behavior:**
-<!-- What actually happened -->
 
 
 **Additional context:**
-<!-- Add any other context, screenshots, or logs here -->
+
